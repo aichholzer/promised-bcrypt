@@ -9,7 +9,7 @@ Promised bcrypt goodness.
 
 ### Install
 ```
-npm install -s promised-bcrypt
+npm install --save promised-bcrypt
 ```
 
 ### API
