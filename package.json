@@ -22,7 +22,7 @@
     },
     "license": "MIT",
     "engines": {
-        "node": ">=6.5.x"
+        "node": ">=6.0.x"
     },
     "dependencies": {
         "bcrypt": "^0.8.7"
