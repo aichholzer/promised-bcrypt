@@ -1,10 +1,10 @@
 {
     "name": "promised-bcrypt",
-    "version": "0.2.1",
+    "version": "0.2.2",
     "description": "Promised bcrypt goodness.",
     "author": {
         "name": "Stefan Aichholzer",
-        "email": "theaichholzer@gmail.com",
+        "email": "play@analogbird.com",
         "url": "https://github.com/aichholzer"
     },
     "contributors": [],
@@ -14,7 +14,7 @@
         "promise",
         "promises",
         "promised"
-    ],
+      ],
     "homepage": "https://github.com/aichholzer/promised-bcrypt",
     "repository": {
         "type": "git",
@@ -25,12 +25,12 @@
         "node": ">=6.0.x"
     },
     "dependencies": {
-        "bcrypt": "^0.8.7"
+        "bcrypt": "^1.0.2"
     },
     "devDependencies": {
         "jscs": "^3.0.7",
-        "mocha": "^3.0.2",
-        "should": "^11.1.0"
+        "mocha": "^3.2.0",
+        "should": "^11.2.0"
     },
     "main": "./lib/index.js",
     "directories": {
@@ -42,7 +42,7 @@
     "bugs": {
         "url": "https://github.com/aichholzer/promised-bcrypt/issues"
     },
-    "_from": "promised-bcrypt@^0.2.0",
+    "_from": "promised-bcrypt@^0.2.1",
     "_npmUser": {
         "name": "aichholzer",
         "email": "theaichholzer@gmail.com"
