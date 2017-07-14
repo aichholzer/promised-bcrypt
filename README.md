@@ -6,6 +6,8 @@
 
 Promised bcrypt goodness.
 
+🔥🔥🔥
+##### This module has been deprecated since the introduction of `bcrypt v0.8.7`.
 
 ### Install
 ```
