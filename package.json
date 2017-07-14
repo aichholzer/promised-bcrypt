@@ -1,6 +1,6 @@
 {
     "name": "promised-bcrypt",
-    "version": "0.2.3",
+    "version": "0.2.4",
     "description": "Promised bcrypt goodness.",
     "author": {
         "name": "Stefan Aichholzer",
@@ -42,7 +42,7 @@
     "bugs": {
         "url": "https://github.com/aichholzer/promised-bcrypt/issues"
     },
-    "_from": "promised-bcrypt@^0.2.2",
+    "_from": "promised-bcrypt@^0.2.3",
     "_npmUser": {
         "name": "aichholzer",
         "email": "theaichholzer@gmail.com"

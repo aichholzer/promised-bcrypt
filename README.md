@@ -5,9 +5,8 @@
 [![Always useful](https://img.shields.io/badge/always-useful-ff6400.svg)](https://github.com/aichholzer/promised-bcrypt)
 
 Promised bcrypt goodness.
-
-🔥🔥🔥
-##### This module has been deprecated since the introduction of `bcrypt v0.8.7`.
+git rebase
+##### 🔥 This module has been deprecated since the introduction of `bcrypt v1.0.0`.
 
 ### Install
 ```
