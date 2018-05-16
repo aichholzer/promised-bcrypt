@@ -1,4 +1,6 @@
 # promised-bcrypt
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/aichholzer/promised-bcrypt.svg)](https://greenkeeper.io/)
 [![Build Status](https://travis-ci.org/aichholzer/promised-bcrypt.svg?branch=master)](https://travis-ci.org/aichholzer/promised-bcrypt)
 [![Dependency status](https://gemnasium.com/badges/github.com/aichholzer/promised-bcrypt.svg)](https://gemnasium.com/github.com/aichholzer/promised-bcrypt)
 [![Downloads](https://img.shields.io/npm/dt/promised-bcrypt.svg)](https://www.npmjs.com/package/promised-bcrypt)
