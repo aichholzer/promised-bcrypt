@@ -25,7 +25,7 @@
         "node": ">=6.0.x"
     },
     "dependencies": {
-        "bcrypt": "^2.0.1"
+        "bcrypt": "^3.0.0"
     },
     "devDependencies": {
         "jscs": "^3.0.7",
