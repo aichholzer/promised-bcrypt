@@ -29,7 +29,7 @@
     },
     "devDependencies": {
         "jscs": "^3.0.7",
-        "mocha": "^6.1.4",
+        "mocha": "^6.2.1",
         "should": "^13.2.1"
     },
     "main": "./lib/index.js",
